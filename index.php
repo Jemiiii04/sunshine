@@ -98,7 +98,7 @@
                 <img src="Images/prgm2.jpg" class="card-img-top w-100" alt="bootstrap">
                 <div class="card-body">
                   <h5 class="card-text"><b>Vocational Training</b></h5>
-                  <a href="VT.php" class="image-link" target="_blank" aria-label="Image Link"></a>
+                  <a href="VocationalTraining.php" class="image-link" target="_blank" aria-label="Image Link"></a>
                 </div>
               </div>
             </div>
@@ -107,7 +107,7 @@
                 <img src="Images/prgm3.jpg" class="card-img-top w-100" alt="bootstrap">
                 <div class="card-body">
                   <h5 class="card-text"><b>Annual Status of Education Report</b></h5>
-                  <a href="AS.php"class="image-link" target="_blank" aria-label="Image Link"></a>
+                  <a href="AnnualStatus.php"class="image-link" target="_blank" aria-label="Image Link"></a>
                 </div>
               </div>
             </div>
@@ -116,7 +116,7 @@
                 <img src="Images/prgm4.png" class="card-img-top w-100" alt="bootstrap">
                 <div class="card-body">
                   <h5 class="card-text"><b>Council for Vulnerable Children</b></h5>
-                  <a href="CVC.php" class="image-link" target="_blank" aria-label="Image Link"></a>
+                  <a href="ChildrenCouncil.php" class="image-link" target="_blank" aria-label="Image Link"></a>
                 </div>
               </div>
             </div>

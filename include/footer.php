@@ -62,7 +62,7 @@
 <div class="footer-content">
   <p class="footer-copyright">
     &copy; <span id="currentYear">2025</span> Sunshine NGO Institute. All Rights Reserved. <br>
-   <a href="PP.php">Privacy Policy</a>
+   <a href="PrivacyPolicy.php">Privacy Policy</a>
   </p>
 </div>
 </footer>
