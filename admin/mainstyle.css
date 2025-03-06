@@ -1,0 +1,97 @@
+
+.login-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 10%;
+}
+.background{
+  font-family: 'Playfair Display SC', serif;
+  background-color: hsla(196, 100%, 25%, 0.7);
+}
+.mybtnn{
+  font-size: 17px;
+  padding: 10px 20px;
+  background-color: #1979A9;
+  color: #fff;
+  transition: .5s;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.mybtnn:hover{
+  background-color: #fff;
+  color: #1979A9;
+}
+.mybtn{
+  font-size: 17px;
+  padding: 10px 20px;
+  background-color: #fdae44;
+  color: #fff;
+  transition: .5s;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.mybtn:hover{
+  background-color: #fff;
+  color: #fdae44;
+}
+
+/* Sidebar Start */
+
+/* Sidebar   styling */
+.sidebar {
+    width: 260px;
+    overflow-y: auto;
+  }
+  .sidebar::-webkit-scrollbar {
+    width: 8px;
+  }
+  .sidebar::-webkit-scrollbar-thumb {
+    background-color: #fff;
+    border-radius: 4px;
+  }
+  .menu{
+    display: block;
+    width: 100%;
+    padding: 20px;
+  }
+  .menu ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+  .menu ul li a{
+    display: block;
+    font-size: 16px;
+    padding: 10px 15px;
+    text-decoration: none;
+  }
+  .nav-item li{
+    color: #000;
+  }
+  .title{
+    text-align: center;
+    color: #fdae44;
+    display: block;
+    font-size: 28px;
+    font-weight: 700;
+    padding: 10px 15px;
+  }
+  .table{
+    border: 2px solid #000;
+  }
+  .table tr th, .table tr td{
+    font-size: 14px;
+    padding: 6px 6px;
+  }
+  .form{
+    padding: 30px;
+  }
+  
+  
+/* Sidebar End */
